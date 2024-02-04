@@ -1,2 +1,2 @@
-# C++-Battleship-Game
+# Battleship-Game
 My First Semester Project (Battleship Game in C++ Language) 
